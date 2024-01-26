@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { onceNextCssLayout, onceTransitionEnd } from 'web-animation-club';
+import { onceNextCssLayout, onceTransitionEnd } from '@rcaferati/wac';
 import PropTypes from 'prop-types';
 import { getClassName } from '../../helpers/components';
 import { mergeStyles, getAnyClassName } from '../../core/helpers';

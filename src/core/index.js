@@ -4,7 +4,7 @@ import {
   onceNextCssLayout,
   onceTransitionEnd,
   onceAnimationEnd,
-} from 'web-animation-club';
+} from '@rcaferati/wac';
 import { getClassName, MediaLoader } from '../helpers/components';
 import {
   getRootClassName,

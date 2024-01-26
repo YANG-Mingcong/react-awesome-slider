@@ -1,5 +1,8 @@
 # React Awesome Slider v3 [NEW fullpage navigation HOC]
 
+Because of "npm WARN deprecated web-animation-club@0.6.0: WARNING: This project has been renamed to @rcaferati/wac; install it using @rcaferati/wac instead."
+change dependency. By MYANG,  2024-Jan-26
+
 [![Travis](https://img.shields.io/travis/rcaferati/react-awesome-slider/master.svg)](https://travis-ci.org/rcaferati/react-awesome-slider) ![NPM](https://img.shields.io/npm/v/react-awesome-slider.svg)
 
 `react-awesome-slider` is a 60fps, extendable, highly customizable, production ready React Component that renders a media (image/video) gallery slider/carousel.
